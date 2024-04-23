@@ -1,37 +1,4 @@
 
-/* 
-normalize:
-
-<link rel="stylesheet" type="text/css" href="../normalize.css"> https://necolas.github.io/normalize.css/8.0.1/normalize.css 
-y editarle 
-
-*{
-  box-sizing: border-box;
-  padding: 0px;
-  margin: 0px;
-}
-
-fonts:
-<link href='https://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css'>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400&family=Exo:ital,wght@0,100;0,200;1,100&family=Oleo+Script+Swash+Caps&family=Quicksand:wght@300;400&family=Square+Peg&family=Uchen&display=swap" rel="stylesheet">
-
-
-font-family: 'Dosis', sans-serif;
-font-family: 'Exo', sans-serif;
-font-family: 'Oleo Script Swash Caps', cursive;
-font-family: 'Quicksand', sans-serif;
-font-family: 'Square Peg', cursive;
-font-family: 'Uchen', serif; */
-/*
-.color1 { #230b00 };
-.color2 { #a29d7f };
-.color3 { #d4cfa5 };
-.color4 { #f8ecd4 };
-.color5 { #aabe9b };
-
-/*________________________________estabilizer and grid__________________________________________________________________________________*/
 
 *{
   
