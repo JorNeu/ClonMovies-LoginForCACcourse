@@ -70,6 +70,10 @@
   font-weight: bold;
   color: aliceblue;
 }
+a{
+  text-decoration: none;
+  color: inherit;
+}
 .button-header:hover {
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 2);
   border-radius: 4px;
@@ -84,6 +88,7 @@
   min-height: 40px;
 }
 /*___________________________main_____________________________________*/
+
 .main{
   padding-top: 50px;
   background-color: #000000;
@@ -126,7 +131,6 @@
   font-size: 40px;
 }
 .button-main-registrate {
-  
   width: 160px;
   height: 60px;
   border: none;
@@ -145,6 +149,7 @@
   height: 60px;
   transform: scale(0.95);
 }
+
 /*___________________________main-busqueda_____________________________________*/
 .cont-busqueda{
   display: inline-block;
@@ -457,6 +462,7 @@
     
   }
   
+  
   .button-main-registrate {
     width: 110px;
     height: 40px;
@@ -500,8 +506,6 @@
   .button-container {
     display: flex;
     justify-content: center; 
-    
-    
 }
   .button-main-catalogo{
     border: 1px solid aliceblue;
