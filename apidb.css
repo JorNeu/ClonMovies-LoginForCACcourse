@@ -32,7 +32,7 @@
     position: fixed;
     background-color: #a13346;
   }
-  .material-symbols-outlined{
+  .m{
    
     color: aliceblue; 
     text-align: start;
@@ -224,7 +224,7 @@
     margin-right: 4vh;
   
   }
-  .movie-container{
+  .pelis-container{
     position: relative;
     padding: 0px;
     margin: 25px;
@@ -237,11 +237,11 @@
     transition: transform 0.6s;
     display: inline-block;
   }
-  .movie-container:hover{
+  .pelis-container:hover{
   
   
   }
-  .movie-container img{
+  .pelis-container img{
     object-fit: cover;
     border-radius: 10px;
     position: absolute;
@@ -251,10 +251,10 @@
       height: 100%;
       object-fit: cover;
   }
-  .movie-container:hover img{
+  .pelis-container:hover img{
     filter: blur(3px); 
   }
-  .movie-container:hover{
+  .pelis-container:hover{
     transform: scale(0.92);
     box-shadow: 0px 0px 25px #a13346;
     border-radius: 10px;
@@ -277,11 +277,11 @@
     justify-content: center; 
     align-items: center; 
   }
-  .movie-container:hover .nombre-peli {
+  .pelis-container:hover .nombre-peli {
     opacity: 1;
     z-index: 99;
   }
-  .movie{
+  .pelis{
   }
   .button-main-catalogo{
     border: 1px solid aliceblue;
