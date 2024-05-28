@@ -340,7 +340,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    height: 20%;
+    height: ;
     background-color: #a13346;
     
     
@@ -350,7 +350,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    height: 20%;
+    height: ;
     background-color: #a13346;
   }
   .buttons-footer{ 
@@ -524,7 +524,7 @@
   .footer{
     height:60%;
     background-color: #a13346; 
-    
+    min-height: 180px;
   }
   .div-footer{
    

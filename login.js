@@ -32,7 +32,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
         console.log('anduvio equis d');
         customAlert.style.display = 'block'
         setTimeout(function() {
-            window.location.href = 'galeriapelis.html';
+            window.location.href = 'index.html';
         }, 3000);
     }
     //creo que para la creacion de cuenta podria usar el mismo js pero con un boton

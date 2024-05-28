@@ -342,8 +342,9 @@ a{
   align-items: center;
   justify-content: center;
   text-align: center;
-  height: 20%;
+  height: ;
   background-color: #a13346;
+  min-height: 50px;
   
   
   
@@ -526,7 +527,7 @@ a{
 .footer{
   height:60%;
   background-color: #a13346; 
-  
+  min-height: 180px;
 }
 .div-footer{
  

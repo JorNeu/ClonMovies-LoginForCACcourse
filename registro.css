@@ -97,6 +97,9 @@
   .error {
     color: red;
   }
+  .main{
+    min-height: 600px;
+  }
   .custom-alert {
     display: none;
     position: fixed;
@@ -149,7 +152,7 @@
     margin: 1%;
     height: 55px;
     font-weight: bold;
-    min-width: 90px;
+    min-width: 110px;
     font-size: 18px;
     max-width: 500px;
     border-radius: 4px;
@@ -161,8 +164,7 @@
     width: 10%;
     height: 55px;
     transform: scale(0.95);
-    min-width: 90px;
-
+    min-width: 110px;
     margin: 1%;
     border-radius: 4px;
   }
@@ -183,7 +185,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    height: 20%;
+    height: 70px;
     background-color: #a13346;
     
     
@@ -195,6 +197,7 @@
     text-align: center;
     height: 20%;
     background-color: #a13346;
+    padding-top: 10px;
   }
   .buttons-footer{ 
     display: inline-block;
@@ -345,16 +348,15 @@
   .footer{
     height:60%;
     background-color: #a13346; 
-    
+    padding-left: 1%;
+    margin-left: 1%;
   }
   .div-footer{
    
-   align-items: center;
-   text-align: center;
-   justify-items: center;
+  
   }
   .buttons-footer{ 
-    padding-left: 50px;
+    
     padding-bottom: -10px;
     padding-top: -10px;
   }
